@@ -6,5 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'todoApp';
+  title = 'TodoApp';
+  //sayfada yapılacak işler ve veri çekme işlemleri vs.. sayfayı dinamik hale getirmek için yapılacaklar burada 
 }
